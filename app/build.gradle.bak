@@ -32,7 +32,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'com.zjukamuriki.gradlejavaapp.App'
+    mainClass = 'com.zjukamuriki.gradlejavaapp.app.App'
 }
 
 tasks.named('test') {
